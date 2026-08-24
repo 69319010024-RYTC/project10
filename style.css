@@ -9,7 +9,7 @@
   --success-color: #5ED3B3;
   --dark-text: #4E4558;
   --light-text: #8E829D;
-  --card-back-bg: linear-gradient(135deg, #9C8EF0 0%, #FFB5D8 100%);
+  --card-back-bg: linear-gradient(135deg, #A8E6CF 0%, #5ED3B3 100%);
   --card-front-bg: #FFFFFF;
   --card-shadow: 0 6px 16px rgba(140, 124, 240, 0.15);
   --card-shadow-hover: 0 12px 28px rgba(140, 124, 240, 0.28);

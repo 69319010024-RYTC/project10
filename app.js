@@ -387,7 +387,7 @@ function setupCards() {
     cardEl.innerHTML = `
       <div class="card">
         <div class="card-face card-back">${tarotBackSvg}</div>
-        <div class="card-front">${cardInfo.svg}</div>
+        <div class="card-face card-front">${cardInfo.svg}</div>
       </div>
     `;
 
